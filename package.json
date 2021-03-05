@@ -1,0 +1,22 @@
+{
+  "name": "hackerank-code-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerry-okpere/hackerank-code-challenge.git"
+  },
+  "author": "Kerry Okpere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kerry-okpere/hackerank-code-challenge/issues"
+  },
+  "homepage": "https://github.com/kerry-okpere/hackerank-code-challenge#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
