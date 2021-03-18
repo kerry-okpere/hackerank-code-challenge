@@ -1,3 +1,5 @@
+// link to question https://www.hackerrank.com/challenges/sock-merchant/problem
+
 function sockMerchant(arr, n) {
   let pair = 0
   arr = arr.sort()
